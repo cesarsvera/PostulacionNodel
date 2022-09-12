@@ -61,11 +61,11 @@ reglas = {
     
 
 }
-
 claves = list(reglas.keys())
+
 # Codigo de para el manejo en cada pagina
 for i in range(1,len(claves)+1):
-    print(i)
+    
     if  1<=i<=9 or 15<=i<=22 or i ==33:
         
         web_element = driver.find_element(By.XPATH, str(reglas.get(i)))

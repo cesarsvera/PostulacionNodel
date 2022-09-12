@@ -1,0 +1,7 @@
+-Se demostro que si se cambia de puerta la probabilidad en cada intento aumenta el doble, en tres intentos 
+la probabilidad de ganar puede ser del 66.66% y si los intento sobrepasan los 1000 la probabilidad de exito tiende a la 66%
+
+- Para la parte donde no se cambia de puerta si los intentos son de 100000 la probabilidad de exito siempre tiende a 33%
+
+- Para la tercera opcion donde se agrega una nueva puerta y el presentador no tiene conocimiento en que puerta esta el premio, se observa que las probabilidades de exito
+de ganar son mayores a 33% a mas de 1000 intentos ya que tiende a 50%
